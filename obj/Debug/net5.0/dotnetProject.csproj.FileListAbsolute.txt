@@ -1,0 +1,16 @@
+C:\Users\mattr\Desktop\dotnetProject\bin\Debug\net5.0\dotnetProject.exe
+C:\Users\mattr\Desktop\dotnetProject\bin\Debug\net5.0\dotnetProject.deps.json
+C:\Users\mattr\Desktop\dotnetProject\bin\Debug\net5.0\dotnetProject.runtimeconfig.json
+C:\Users\mattr\Desktop\dotnetProject\bin\Debug\net5.0\dotnetProject.runtimeconfig.dev.json
+C:\Users\mattr\Desktop\dotnetProject\bin\Debug\net5.0\dotnetProject.dll
+C:\Users\mattr\Desktop\dotnetProject\bin\Debug\net5.0\ref\dotnetProject.dll
+C:\Users\mattr\Desktop\dotnetProject\bin\Debug\net5.0\dotnetProject.pdb
+C:\Users\mattr\Desktop\dotnetProject\obj\Debug\net5.0\dotnetProject.csprojAssemblyReference.cache
+C:\Users\mattr\Desktop\dotnetProject\obj\Debug\net5.0\dotnetProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattr\Desktop\dotnetProject\obj\Debug\net5.0\dotnetProject.AssemblyInfoInputs.cache
+C:\Users\mattr\Desktop\dotnetProject\obj\Debug\net5.0\dotnetProject.AssemblyInfo.cs
+C:\Users\mattr\Desktop\dotnetProject\obj\Debug\net5.0\dotnetProject.csproj.CoreCompileInputs.cache
+C:\Users\mattr\Desktop\dotnetProject\obj\Debug\net5.0\dotnetProject.dll
+C:\Users\mattr\Desktop\dotnetProject\obj\Debug\net5.0\ref\dotnetProject.dll
+C:\Users\mattr\Desktop\dotnetProject\obj\Debug\net5.0\dotnetProject.pdb
+C:\Users\mattr\Desktop\dotnetProject\obj\Debug\net5.0\dotnetProject.genruntimeconfig.cache
